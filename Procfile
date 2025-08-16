@@ -1,0 +1,1 @@
+web: npx hexo server -p $PORT
