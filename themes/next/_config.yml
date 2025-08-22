@@ -99,33 +99,8 @@ creative_commons:
 # Schemes
 #scheme: Muse
 #scheme: Mist
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 scheme: Pisces
 #scheme: Gemini
-=======
-#scheme: Pisces
-scheme: Gemini
->>>>>>> 0bf469d (20250821 v1)
-=======
-scheme: Pisces
-#scheme: Gemini
->>>>>>> db78b72 (20250822 v1)
-=======
-scheme: Pisces
-#scheme: Gemini
->>>>>>> c0c9dce (20250822 v3)
-=======
-scheme: Pisces
-#scheme: Gemini
->>>>>>> ccac8e6 (20250823 v5)
-=======
-scheme: Pisces
-#scheme: Gemini
->>>>>>> e4221e1 (20250823 v6)
 
 # Dark Mode
 darkmode: false
