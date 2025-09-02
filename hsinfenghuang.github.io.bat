@@ -1,4 +1,4 @@
-cd "C:\Users\chbon\Documents\herokuhexohsinfenghuang\public"
+cd "C:\Users\chbon\Documents\hsinfenghuang-not-to-github.io-main\public"
 git init
 git add .
 git commit -m "20250903 v1"
