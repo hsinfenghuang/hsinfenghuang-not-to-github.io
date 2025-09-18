@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"title":"測試2017","slug":"測試2017","date":"2017-11-27T15:59:59.000Z","updated":"2025-08-22T08:23:01.000Z","comments":true,"path":"api/articles/測試2017.json","excerpt":null,"covers":null,"content":"<p>測試2017</p>\n","more":"<p>測試2017</p>\n","categories":[],"tags":[]}
+=======
+{"title":"測試2017","slug":"測試2017","date":"2017-11-27T15:59:59.000Z","updated":"2025-09-02T17:46:32.000Z","comments":true,"path":"api/articles/測試2017.json","excerpt":null,"covers":null,"content":"<p>測試2017</p>\n","more":"<p>測試2017</p>\n","categories":[],"tags":[]}
+>>>>>>> b2ba47e (20250919 v1)

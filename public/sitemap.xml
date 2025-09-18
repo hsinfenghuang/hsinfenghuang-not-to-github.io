@@ -2,9 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://hsinfenghuang.github.io/about/index.html</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <loc>http://hsinfenghuang.github.io/2025/09/19/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E6%9C%AA%E9%8C%84%E5%8F%96-%E7%AC%AC355%E5%90%8D/</loc>
+    
+    <lastmod>2025-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/whoisfeng/index.html</loc>
+    
+    <lastmod>2025-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/tuiswho/index.html</loc>
+    
+    <lastmod>2025-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/about/index.html</loc>
+    
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +46,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/06/17/114%E5%B9%B4%E5%85%AC%E5%8B%99%E4%BA%BA%E5%93%A1%E9%AB%98%E7%AD%89%E8%80%83%E8%A9%A6%E4%B8%89%E7%B4%9A%E8%80%83%E8%A9%A6%E6%9A%A8%E6%99%AE%E9%80%9A%E8%80%83%E8%A9%A6%E5%B0%87%E8%87%AA6%E6%9C%8819%E6%97%A5%E8%B5%B7%E9%96%8B%E6%94%BE%E4%B8%8B%E8%BC%89%E8%80%83%E8%A9%A6%E9%80%9A%E7%9F%A5%E6%9B%B8/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,6 +59,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/07/07/114%E5%B9%B4%E5%85%AC%E5%8B%99%E4%BA%BA%E5%93%A1%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%80%83%E8%A9%A6%E6%96%BC7%E6%9C%888%E6%97%A5%E8%87%B310%E6%97%A5%E8%88%89%E8%A1%8C/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -32,6 +70,9 @@
     <loc>http://hsinfenghuang.github.io/2025/07/10/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E8%80%83%E7%95%A2%E8%A9%A6%E9%A1%8C/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +81,20 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/08/22/20250822/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2025/07/10/114%E5%B9%B4%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A%E8%B3%87%E8%A8%8A%E8%99%95%E7%90%86%E8%80%83%E7%95%A2%E8%A9%A6%E9%A1%8C/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +103,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1988/11/27/%E6%B8%AC%E8%A9%A61988/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +116,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1989/11/27/%E6%B8%AC%E8%A9%A61989/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +129,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1990/11/27/%E6%B8%AC%E8%A9%A61990/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +142,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1991/11/27/%E6%B8%AC%E8%A9%A61991/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +155,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1992/11/27/%E6%B8%AC%E8%A9%A61992/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +168,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1993/11/27/%E6%B8%AC%E8%A9%A61993/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +181,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1994/11/27/%E6%B8%AC%E8%A9%A61994/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +194,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1995/11/27/%E6%B8%AC%E8%A9%A61995/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +207,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1996/11/27/%E6%B8%AC%E8%A9%A61996/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +220,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1997/11/27/%E6%B8%AC%E8%A9%A61997/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +233,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1998/11/27/%E6%B8%AC%E8%A9%A61998/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +246,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/1999/11/27/%E6%B8%AC%E8%A9%A61999/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +259,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2000/11/27/%E6%B8%AC%E8%A9%A62000/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +272,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2001/11/27/%E6%B8%AC%E8%A9%A62001/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +285,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2002/11/27/%E6%B8%AC%E8%A9%A62002/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +298,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2003/11/27/%E6%B8%AC%E8%A9%A62003/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -193,6 +311,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2004/11/27/%E6%B8%AC%E8%A9%A62004/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -212,6 +331,9 @@
     <loc>http://hsinfenghuang.github.io/2005/11/27/%E6%B8%AC%E8%A9%A62005/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -220,6 +342,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2007/11/27/%E6%B8%AC%E8%A9%A62007/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -230,6 +353,9 @@
     <loc>http://hsinfenghuang.github.io/2008/11/27/%E6%B8%AC%E8%A9%A62008/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -238,16 +364,44 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2010/11/27/%E6%B8%AC%E8%A9%A62010/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://hsinfenghuang.github.io/2009/11/27/%E6%B8%AC%E8%A9%A62009/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <loc>http://hsinfenghuang.github.io/2006/11/27/%E6%B8%AC%E8%A9%A62006/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2005/11/27/%E6%B8%AC%E8%A9%A62005/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2008/11/27/%E6%B8%AC%E8%A9%A62008/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -256,6 +410,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2011/11/27/%E6%B8%AC%E8%A9%A62011/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -266,6 +421,9 @@
     <loc>http://hsinfenghuang.github.io/2012/11/27/%E6%B8%AC%E8%A9%A62012/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -274,7 +432,20 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2013/11/27/%E6%B8%AC%E8%A9%A62013/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2012/11/27/%E6%B8%AC%E8%A9%A62012/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -283,7 +454,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2014/11/27/%E6%B8%AC%E8%A9%A62014/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -292,6 +467,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2015/11/27/%E6%B8%AC%E8%A9%A62015/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -302,6 +478,9 @@
     <loc>http://hsinfenghuang.github.io/2016/11/27/%E6%B8%AC%E8%A9%A62016/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -310,16 +489,26 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2017/11/27/%E6%B8%AC%E8%A9%A62017/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://hsinfenghuang.github.io/2018/11/27/%E6%B8%AC%E8%A9%A62018/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <loc>http://hsinfenghuang.github.io/2016/11/27/%E6%B8%AC%E8%A9%A62016/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -328,7 +517,20 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2019/11/27/%E6%B8%AC%E8%A9%A62019/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2018/11/27/%E6%B8%AC%E8%A9%A62018/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -337,7 +539,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2020/11/27/%E6%B8%AC%E8%A9%A62020/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -346,7 +552,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2021/11/27/%E6%B8%AC%E8%A9%A62021/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -355,7 +565,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2022/11/27/%E6%B8%AC%E8%A9%A62022/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -364,16 +578,26 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2023/11/27/%E6%B8%AC%E8%A9%A62023/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://hsinfenghuang.github.io/2024/11/27/%E6%B8%AC%E8%A9%A62024/</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <loc>http://hsinfenghuang.github.io/2009/11/27/%E6%B8%AC%E8%A9%A62009/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -382,7 +606,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/08/16/%E7%BE%A9%E7%BE%8E%E5%8F%B0%E7%81%A3%E8%8A%B1%E7%94%9F%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%9B%AA%E7%B3%95/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -391,7 +619,20 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/08/21/%E8%90%AC%E9%A6%99%E5%82%B3%E7%B5%B1%E6%89%8B%E5%B7%A5%E8%B1%86%E8%8A%B1/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/2024/11/27/%E6%B8%AC%E8%A9%A62024/</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -400,6 +641,7 @@
   <url>
     <loc>http://hsinfenghuang.github.io/2025/08/10/%E9%81%A0%E6%B4%8B%E7%89%8C%E7%B4%85%E7%87%92%E9%B0%BB/</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -410,6 +652,9 @@
     <loc>http://hsinfenghuang.github.io/categories/index.html</loc>
     
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -418,7 +663,11 @@
   <url>
     <loc>http://hsinfenghuang.github.io/links/index.html</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -427,7 +676,20 @@
   <url>
     <loc>http://hsinfenghuang.github.io/tags/index.html</loc>
     
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsinfenghuang.github.io/categories/index.html</loc>
+    
+    <lastmod>2025-09-02</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -436,7 +698,11 @@
 
   <url>
     <loc>http://hsinfenghuang.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -444,14 +710,22 @@
   
   <url>
     <loc>http://hsinfenghuang.github.io/tags/%E9%AB%98%E8%80%83%E4%B8%89%E7%B4%9A/</loc>
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hsinfenghuang.github.io/tags/%E7%89%A9%E5%83%B9/</loc>
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -460,14 +734,22 @@
   
   <url>
     <loc>http://hsinfenghuang.github.io/categories/%E8%80%83%E8%A9%A6/</loc>
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hsinfenghuang.github.io/categories/%E9%A3%9F/</loc>
+<<<<<<< HEAD
     <lastmod>2025-08-22</lastmod>
+=======
+    <lastmod>2025-09-18</lastmod>
+>>>>>>> b2ba47e (20250919 v1)
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

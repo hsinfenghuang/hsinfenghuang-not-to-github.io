@@ -120,8 +120,15 @@ menu:
   archives: /archives/ || fa fa-archive
   categories: /categories/ || fa fa-th
   tags: /tags/ || fa fa-tags
+<<<<<<< HEAD
   about: /about/ || fa fa-user
   links: /links/ || fa fa-link
+=======
+  links: /links/ || fa fa-link
+  tuiswho: /tuiswho/ || fa fa-mars
+  whoisfeng: /whoisfeng/ || fa fa-user
+  about: /about/ || fa fa-info
+>>>>>>> b2ba47e (20250919 v1)
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat

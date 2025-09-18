@@ -1173,7 +1173,11 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
+<<<<<<< HEAD
   background: #ff1225;
+=======
+  background: #ffffac;
+>>>>>>> b2ba47e (20250919 v1)
   border-radius: 50%;
   content: ' ';
   display: inline-block;

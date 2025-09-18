@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"name":"考試","path":"api/categories/考試.json","count":3},{"name":"食","path":"api/categories/食.json","count":3}]
+=======
+[{"name":"考試","path":"api/categories/考試.json","count":4},{"name":"食","path":"api/categories/食.json","count":3}]
+>>>>>>> b2ba47e (20250919 v1)
