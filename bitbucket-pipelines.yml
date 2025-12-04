@@ -1,0 +1,15 @@
+pipelines:
+  default:
+    - step:
+        name: Deploy root website
+        script:
+          - mkdir -p public
+          - cp index.html public/
+          - pipe: atlassian/bitbucket-pages-deploy:0.3.3
+            variables:
+              BITBUCKET_USERNAME: $BITBUCKET_USERNAME
+              BITBUCKET_APP_PASSWORD: $BITBUCKET_APP_PASSWORD
+              BITBUCKET_REPO_SLUG: $BITBUCKET_REPO_SLUG
+              BITBUCKET_REPO_OWNER: $BITBUCKET_REPO_OWNER
+              BITBUCKET_BRANCH: "master"
+              BITBUCKET_PAGES_PATH: "public"
